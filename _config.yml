@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Eshaan Venkat Kirpal
-  avatar: bio-photo.jpg
+  avatar: fullsizeoutput_c5f.jpeg
   bio: "A brief description of me."
   email: evkirpal@ncsu.edu
   # Do not include the @ symbol in your Twitter username
@@ -22,7 +22,7 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: eshaan90
+  facebook: Eshaan Kirpal
   instagram: #username
   bing-verify:
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
